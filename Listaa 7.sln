@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listaa 7", "Listaa 7\Listaa 7.csproj", "{1092ED2C-7711-4C52-8A5C-C3C1AFA83197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1092ED2C-7711-4C52-8A5C-C3C1AFA83197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1092ED2C-7711-4C52-8A5C-C3C1AFA83197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1092ED2C-7711-4C52-8A5C-C3C1AFA83197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1092ED2C-7711-4C52-8A5C-C3C1AFA83197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECB828C2-8BAC-4402-A87D-90F88D9C31B6}
+	EndGlobalSection
+EndGlobal
